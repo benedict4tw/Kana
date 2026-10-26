@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+._*
+
+# Abhängigkeiten und Vercel
+node_modules/
+.vercel/
+
+# Umgebungsvariablen und Geheimnisse
+.env
+.env*
+
+# Temporäre Dateien und Editoren
+*.tmp
+*.temp
+*.swp
+*.bak
+*~
+.idea/
+.vscode/
+Thumbs.db
